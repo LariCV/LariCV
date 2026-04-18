@@ -11,7 +11,7 @@ Comecei na área de tecnologia pela infraestrutura e hoje estou mergulhando cada
 Java e desenvolvimento back-end
 Construção de APIs REST
 Cloud (AWS)
-Linux e ambientes de servidor
+
 
 📚 Sempre estudando, criando projetos e evoluindo um pouco a cada dia.
 www.linkedin.com/in/larissacoelhovieira
