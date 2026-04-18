@@ -14,5 +14,7 @@ Cloud (AWS)
 
 
 📚 Sempre estudando, criando projetos e evoluindo um pouco a cada dia.
+
 linkedin: www.linkedin.com/in/larissacoelhovieira
+
 e-mail:larissacv14@gmail.com
